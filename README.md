@@ -1,2 +1,2 @@
 # MediaInventary
-Proyecto catalogo 
+Proyecto catálogo Media
